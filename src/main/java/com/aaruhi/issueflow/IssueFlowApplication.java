@@ -1,4 +1,4 @@
-package com.aaruhi.IssueFlow;
+package com.aaruhi.issueflow;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
